@@ -1,12 +1,12 @@
 # SANJIDA ANJUM SUCHI
-![Alt Text](PLUS Logo englisch Farbe.jpg)
-# RESEARCH INTEREST
+## PLUS Logo englisch Farbe.jpg
+### RESEARCH INTEREST
 Remote Sensing | Environmental Engineering | Climate Change | Environmental Impact   assessment | Waste Management and Pollution Control | Environmental Policy and Planning | Natural Resource Management | Environmental Data Science and Remote Sensing
-## EDUCATION
+### EDUCATION
 Khulna University of Engineering and Technology	Khulna, Bangladesh
 B.Sc. in Urban and Regional Planning (Feb 2017–June 2022)
 CGPA: 3.25 out of 4.00
-### WORK EXPERIENCE
+#### WORK EXPERIENCE
 Center for Environmental and Geographic Information Services, Dhaka, Bangladesh
 (CEGIS)
 Research Consultant (Feb 2023- Present)
