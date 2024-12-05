@@ -1,5 +1,5 @@
 # SANJIDA ANJUM SUCHI
-## PLUS Logo englisch Farbe.jpg
+![Alt Text]([example.png](https://github.com/sanjidasuchi/portfolio/blob/a15f57bb2f92e3d221cdc3582c334cd06fb7ec41/PLUS%20Logo%20englisch%20Farbe.jpg))
 ### RESEARCH INTEREST
 Remote Sensing | Environmental Engineering | Climate Change | Environmental Impact   assessment | Waste Management and Pollution Control | Environmental Policy and Planning | Natural Resource Management | Environmental Data Science and Remote Sensing
 ### EDUCATION
