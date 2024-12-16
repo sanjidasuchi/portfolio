@@ -14,9 +14,9 @@ main:
     url: /portfolios/
 
   - title: "Projects"
-    url: /publications/
+    url: /projects/
     
   - title: "Affiliattions"
-    url: /year-archive/
+    url: /affiliations/
 
 
