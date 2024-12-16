@@ -7,14 +7,14 @@
 main:
   
     - title: "CV"
-    url: /files/Europass_CV.pdf/
+    url: '/files/Europass_CV.pdf/'
 
     - title: "Portfolio"
-    url: https://sanjidasuchi.github.io/
+    url: 'https://sanjidasuchi.github.io/'
   
   
   - title: "Publications"
-   url: https://www.researchgate.net/profile/Sanjida-Anjum-Suchi
+   url: 'https://www.researchgate.net/profile/Sanjida-Anjum-Suchi'
 
   #- title: "Talks"
   # url: /talks/    
