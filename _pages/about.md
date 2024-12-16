@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-! [Illustration of combining vision and language modalities] (images/logo..png){: .align-right width="300px"'}
+(images/logo..png){: .align-right width="300px"}
 👧 I'm a first year graduate student at the University of Salzburg.
 
 📚 My research interests are Remote Sensing, GIS, Urban Planning, Climate Change, Environmental Engineering
