@@ -4,19 +4,78 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 
-main:
-  - title: "Home"
-    url: https://sanjidasuchi.github.io/
-  
-  - title: "CV"
-    url: /files/Europass_CV.pdf
-    
-  - title: "Gallery"
-    url: /portfolio/
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Right-Aligned Navigation Bar</title>
+  <style>
+    /* Global styling for body */
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
 
-  - title: "Publications"
-    url: /publications/
-    
-  - title: "Blog Posts"
-    url: /year-archive/
+    /* Navigation Bar Styling */
+    nav {
+      display: flex; /* Flexbox for layout */
+      justify-content: flex-end; /* Align items to the right */
+      background-color: #333; /* Dark background */
+      padding: 10px 20px; /* Add padding around the navigation bar */
+      box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2); /* Optional: Add shadow */
+    }
+
+    /* Navigation Menu */
+    nav ul {
+      list-style: none; /* Remove bullet points */
+      margin: 0;
+      padding: 0;
+      display: flex; /* Display items inline */
+    }
+
+    nav ul li {
+      margin-left: 20px; /* Spacing between links */
+    }
+
+    nav ul li a {
+      text-decoration: none; /* Remove underline from links */
+      color: white; /* White text for links */
+      font-size: 16px;
+      transition: color 0.3s ease; /* Smooth hover effect */
+    }
+
+    nav ul li a:hover {
+      color: #00bcd4; /* Change color on hover */
+    }
+
+    /* Main Content Styling */
+    .content {
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Navigation Bar -->
+  <nav>
+    <ul>
+      <li><a href="https://sanjidasuchi.github.io/">Home</a></li>
+      <li><a href="/files/Europass_CV.pdf">CV</a></li>
+      <li><a href="/portfolio/">Gallery</a></li>
+      <li><a href="/publications/">Publications</a></li>
+      <li><a href="/year-archive/">Blog Posts</a></li>
+    </ul>
+  </nav>
+
+  <!-- Main Content -->
+  <div class="content">
+    <h1>Welcome to My GitHub Pages Site</h1>
+    <p>This page demonstrates how to create a right-aligned navigation bar using HTML and CSS.</p>
+    <p>The navigation bar remains fixed at the top and aligned to the right side of the page.</p>
+  </div>
+
+</body>
+</html>
+
 
