@@ -23,74 +23,40 @@ redirect_from:
   </div>
 </div>
 
-<!-- Bottom Bar -->
-<div class="bottom-bar">
-  <!-- Images -->
-  <img src="images/EN Co-funded by the EU_POS.jpg" alt="Image 1" class="bottom-bar-image">
-  <img src="images/PLUS Logo englisch Farbe.jpg" alt="Image 2" class="bottom-bar-image">
-  <img src="images/UP_logo_stred_en.png" alt="Image 3" class="bottom-bar-image">
-  
-</div>
-
-
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>GitHub Pages Bottom Bar</title>
-  <link rel="stylesheet" href="style.css">
+  <title>Image Resize Example</title>
+  <style>
+    /* Image container styling */
+    .image-container {
+      text-align: center; /* Center the image horizontally */
+      margin-top: 20px;
+    }
+
+    /* Resize the image */
+    .resized-image {
+      width: 300px; /* Set desired width */
+      height: auto; /* Maintain aspect ratio */
+      border: 2px solid #ddd; /* Add a border for style */
+      border-radius: 10px; /* Rounded corners */
+      box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Add shadow */
+    }
+  </style>
 </head>
 <body>
 
-  <!-- Page Content -->
-  <h1>Welcome to My GitHub Page</h1>
-  <p>This is an example of a bottom bar with horizontally aligned images.</p>
-
-  <!-- Bottom Bar -->
-  <div class="bottom-bar">
-    <img src="images/EN Co-funded by the EU_POS.jpg" alt="Image 1">
-    <img src="images/PLUS Logo englisch Farbe.jpg" alt="Image 2">
-    <img src="image3.jpg" alt="Image 3">
-    <img src="images/UP_logo_stred_en.png" alt="Image 4">
+  <h1>Welcome to My GitHub Image Page</h1>
+  <div class="image-container">
+    <!-- Replace the src attribute with your GitHub image path -->
+    <img src="images/new banner.png" alt="My Photo" class="resized-image">
   </div>
 
 </body>
 </html>
-
-
-/* Bottom bar container */
-.bottom-bar {
-  position: fixed; /* Fix the bar at the bottom */
-  bottom: 0;
-  left: 0;
-  width: 100%; /* Full-width bar */
-  background-color: #333; /* Dark background */
-  display: flex; /* Flexbox for horizontal alignment */
-  justify-content: center; /* Center images horizontally */
-  align-items: center; /* Align items vertically */
-  padding: 10px 0; /* Padding for spacing */
-  box-shadow: 0px -2px 5px rgba(0, 0, 0, 0.3); /* Shadow effect */
-  z-index: 100; /* Ensure it's on top */
-}
-
-/* Style for images in the bar */
-.bottom-bar img {
-  height: 50px; /* Uniform height for images */
-  width: auto; /* Maintain aspect ratio */
-  margin: 0 15px; /* Spacing between images */
-  transition: transform 0.3s ease; /* Smooth hover effect */
-}
-
-.bottom-bar img:hover {
-  transform: scale(1.1); /* Slightly enlarge image on hover */
-}
-
-
-
-
-
 
 
 
