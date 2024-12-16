@@ -1,12 +1,3 @@
----
-permalink: /
-title: "Hello there, I'm Suchi"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 <p class="justify-text">
 I am a Master’s student at the Copernicus Digital Earth program at the University of Salzburg and Palacký University Olomouc. Currently I am in the first year of this Erusmus Mundus Joint Masters program  at the University of Salzburg, Austria. In the second year I will join Palacký University Olomouc which specializes in geovisualisation, geocommunication and application development, including cartography and geovisualisation design, web and cognitive cartography, 3D visualisation, and advanced visualisation methods.
 </p>
@@ -21,10 +12,11 @@ Experience
 **Research Consultant | Feb 2023 – July 2024** <br>
 Center for Environmental and Geographic Information Services (CEGIS) <br>
 Dhaka, Bangladesh<br>
+Land Cover, Land Use Mapping and Change Analysis<br>
 **Junior Urban Planner | Oct 2022 – Jan 2023**<br>
 Development and Design Consultants (DDC) <br>
 Dhaka, Bangladesh <br>
-Mouza and Plot Based National Digital Land Zoning Project” which is carried out by the Ministry of Land<br>
+Mouza and Plot Based National Digital Land Zoning Project which is carried out by the Ministry of Land<br>
 
 
 
