@@ -38,7 +38,7 @@ redirect_from:
 
     /* Resize the image */
     .resized-image {
-      width: 300px; /* Set desired width */
+      width: 900px; /* Set desired width */
       height: auto; /* Maintain aspect ratio */
       border: 2px solid #ddd; /* Add a border for style */
       border-radius: 10px; /* Rounded corners */
