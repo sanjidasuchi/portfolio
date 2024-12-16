@@ -8,7 +8,6 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Suchi's Homepage"
 title_separator          : "-"
 name                     : &name "Sanjida Anjum Suchi"
 description              : &description "personal description"
@@ -24,7 +23,7 @@ author:
   avatar           : "457840606_1983909885355298_1010508277402706856_n.jpg"
   name             : "Sanjida Anjum Suchi"
   pronouns         : # example: "she/her"  
-  bio              : "Life Time Learner"
+  bio              : "Geospatial researcher"
   location         : "Salzburg, Austria"
   employer         : "Paris Lodron University of Salzburg"
   uri              : # URL
