@@ -23,9 +23,7 @@ author:
   avatar           : "Picture1.png"
   name             : "Sanjida Anjum Suchi"
   pronouns         : # example: "she/her"
-  <p style="text-align: center;">
   bio              : "Geospatial researcher"
-  </p>
   location         : "Salzburg, Austria"
   employer         : "Paris Lodron University of Salzburg"
   uri              : # URL
