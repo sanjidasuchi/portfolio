@@ -18,13 +18,13 @@ Besiseds GIS and remote sensing my research intersts are Urban Planning and Poli
 
 Experience
 ------
-**Research Consultant | Feb 2023 – July 2024**
+**Research Consultant | Feb 2023 – July 2024** <br>
 Center for Environmental and Geographic Information Services (CEGIS) <br>
-Dhaka, Bangladesh
-**Junior Urban Planner | Oct 2022 – Jan 2023**
+Dhaka, Bangladesh<br>
+**Junior Urban Planner | Oct 2022 – Jan 2023**<br>
 Development and Design Consultants (DDC) <br>
 Dhaka, Bangladesh <br>
-Mouza and Plot Based National Digital Land Zoning Project” which is carried out by the Ministry of Land
+Mouza and Plot Based National Digital Land Zoning Project” which is carried out by the Ministry of Land<br>
 
 
 
