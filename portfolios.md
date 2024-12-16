@@ -31,5 +31,21 @@ The information seems to come from research where some participants had their ey
 The heatmap shows the visual representation of whare participants draw their attention mostly while conducting the survey. The area spotted with yellow and red shows that the viewer gaze was frequently more fixated. Cooler tones such as blue and green shows that on the area they had less attention.
 </p>
 
+**Explore the damage that was caused by this earthquake**<br>
+![](images/4.jpg)
+<p style="text-align: justify;">
+At about 4:30 a.m. on January 17, 1994, a magnitude 6.7 earthquake took place in Southern California. The intense shaking lasted between 10 and 20 seconds. Initially, seismologists thought that the earthquake epicenter was in Northridge, and the earthquake is still known as the Northridge earthquake. However, the actual epicenter was in the neighboring city of Reseda, about 20 miles northwest of downtown Los Angeles. Ground shaking was detected as far away as Las Vegas, Nevada, more than 200 miles from the epicenter. In this exercise, you will use ArcGIS Pro to explore the damage that was caused by this earthquake. As you explore the damage, you will become familiar with the ArcGIS Pro interface, the project structure, and working with 2D and 3D views.
+</p>
+![](images/5.jpg)
+<p style="text-align: center;">
+2D View
+</p>
+
+
+
+
+
+
+
 
 
