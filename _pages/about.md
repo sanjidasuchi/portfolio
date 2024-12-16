@@ -19,7 +19,7 @@ redirect_from:
   </div>
     <!-- Left Side: Image -->
   <div style="flex: 1; text-align: center;">
-    <img src="images/logo.new.png" alt="Description" style="max-width: 100%; height: auto;">
+    <img src="images/cde.png" alt="Description" style="max-width: 100%; height: auto;">
   </div>
 </div>
 
