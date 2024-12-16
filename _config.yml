@@ -20,10 +20,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "457840606_1983909885355298_1010508277402706856_n.jpg"
+  avatar           : "Picture1.png"
   name             : "Sanjida Anjum Suchi"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "she/her"
+  <p style="text-align: center;">
   bio              : "Geospatial researcher"
+  </p>
   location         : "Salzburg, Austria"
   employer         : "Paris Lodron University of Salzburg"
   uri              : # URL
