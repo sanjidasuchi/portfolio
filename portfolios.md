@@ -41,6 +41,26 @@ At about 4:30 a.m. on January 17, 1994, a magnitude 6.7 earthquake took place in
 2D View
 </p>
 
+![](images/6.jpg)
+<p style="text-align: center;">
+Cartographic creations – Make an inset map
+</p>
+
+![](images/7.jpg)
+<p style="text-align: center;">
+Cartographic creations – Arrange a map layout
+</p>
+
+![](images/8.jpg)
+![](images/9.jpg)
+<p style="text-align: center;">
+This map appears to be designed to help tourists navigate and explore the Central Business District of Singapore. It highlights popular tourist attractions, rail lines, and stations.
+</p>
+
+
+
+
+
 
 
 
