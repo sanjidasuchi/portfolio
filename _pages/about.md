@@ -9,6 +9,7 @@ redirect_from:
 <p style="text-align: justify;">
 **About Me**
 I am a Master’s student at the Copernicus Digital Earth program at the University of Salzburg and Palacký University Olomouc. Currently I am in the first year of this Erusmus Mundus Joint Masters program  at the University of Salzburg, Austria. In the second year I will join Palacký University Olomouc which specializes in geovisualisation, geocommunication and application development, including cartography and geovisualisation design, web and cognitive cartography, 3D visualisation, and advanced visualisation methods.
+</p>
 
 **My Interests**
 Besiseds GIS and remote sensing my research intersts are Urban Planning and Policy making , Climate Change, Environmental Engineering. Here is the overview of my [works](https://sanjidasuchi.github.io/portfolio/).
@@ -54,7 +55,6 @@ Mouza and Plot Based National Digital Land Zoning Project which is carried out b
 
 </body>
 </html>
-</p>
 
 
 
