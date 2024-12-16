@@ -1,5 +1,5 @@
 **Projects** <br>
-<p style="text-align: center;">
+<p style="text-align: justify;">
 • **GIS and Remote Sensing Project: A Spatiotemporal Analysis of Land-Use Changes in Rohingya Refugee Camps Using Multi-Temporal Satellite Image Analysis (01/09/2019 – 30/11/2019)**<br>
 In August 24, 2017, a massive outbreak took place in the Rakhine state of Myanmar which triggered a huge refugee influx to the Teknaf Peninsula, Bangladesh. This paper has examined the extent of vegetation change and the changes of LST from 2017 to 2019 throughout Kutupalong and Balukhali camp and adjacent areas using Landsat 8 images. Random forest algorithm and Plank equation were applied on images to identify vegetation change and LST, respectively.<br>
   
