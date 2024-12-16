@@ -6,29 +6,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div style="display: flex; align-items: center;">
   <!-- Right Side: Text -->
   <div style="flex: 1; padding: 20px;">
-      <p>
+    <p>
       👧 I'm a first year graduate student at the University of Salzburg.<br>
       📚 My research interests are Remote Sensing, GIS, Urban Planning, Climate Change, Environmental Engineering. <br>
       🙋‍♀️I am also interested in assisting others on their path in the world of Digital Earth and academia.<br>
     </p>
   </div>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <!-- Left Side: Image -->
+    <!-- Left Side: Image -->
   <div style="flex: 1; text-align: center;">
-    <img src="images/logo..png" alt="Description" style="max-width: 100%; height: auto;">
+    <img src="images/logo.new.png" alt="Description" style="max-width: 100%; height: auto;">
   </div>
-
-image: /images/logo..png 
-(/images/logo..png){: .align-right width="300px"}
-👧 I'm a first year graduate student at the University of Salzburg.
-
-📚 My research interests are Remote Sensing, GIS, Urban Planning, Climate Change, Environmental Engineering
-
-🙋‍♀️I am also interested in assisting others on their path in the world of Digital Earth and academia.
+</div>
 
 A data-driven personal website
 ======
