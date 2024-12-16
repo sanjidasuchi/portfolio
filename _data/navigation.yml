@@ -11,6 +11,12 @@ main:
   - title: "CV"
     url: /files/Europass_CV.pdf
     
-  - title: "Works"
+  - title: "Gallery"
     url: /portfolio/
+
+  - title: "Publications"
+    url: /publications/
+    
+  - title: "Blog Posts"
+    url: /year-archive/
 
