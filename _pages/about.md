@@ -23,41 +23,89 @@ redirect_from:
   </div>
 </div>
 
-A data-driven personal website
+Professional Experience
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Research Consultant
+Center for Environmental and Geographic Information Services (CEGIS) [ 01/02/2023 – Current ]
+City: Dhaka
+Country: Bangladesh
+-Managing geodatabase, prepare GIS layers and solving different problems for spatial data
+-Spatial data analysis, image interpretation, land use/cover classification maps preparation, cropping pattern
+extraction etc.
+-Satellite image processing, mosaicking, assessing, analyzing accurately and also working with vector data
+analyzing and processing
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Junior Urban Planner
+Development and Design Consultants (DDC) [ 01/10/2022 – 30/01/2023 ]
+City: Dhaka
+Country: Bangladesh
+Worked with DDC as a “Junior Urban Planner”. I was appointed to the “Mouza and Plot Based National Digital
+Land Zoning Project” which is carried out by the Ministry of Land
 
-Getting started
+EDUCATION AND TRAINING
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Bachelor of Urban and Regional Planning
+Khulna University of Engineering and Technology [ 10/01/2017 – 30/06/2022 ]
+City: Khulna
+Country: Bangladesh
+Website: kuet.ac.bd/department/URP/index.php
+Field(s) of study: GIS and Remote Sensing Studio | Environmental Chemistry | Statistics for Planners | Principles
+of Environmental Planning | Water Resource Planning & Management | Environmental Planning and
+Management | Project Planning and Management
+Final grade: 3.25
 
-Site-wide configuration
+
+
+
+Thesis: Covid-19 Impact on Women’s Travel Behavior Changes & Modal Shifts
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+• GIS and Remote Sensing Project: A Spatiotemporal Analysis of Land-Use Changes in Rohingya Refugee Camps Using Multi-Temporal Satellite Image Analysis<br>
+• Joblessness Problem of “Ispahani Labor Colony” (Kulibagan & Sadhubagan Slum), Daulatpur, Khulna: A Participatory Planning Approach — To analyze the community's social, economic and environmental issues by using PRA tools.<br>
+• Site Analysis for Neighborhood Planning and Design — In this project I accomplished Site Inventory Analysis, Site Suitability Analysis, SWOT Analysis<br>
+• Environmental Profile of Ward 11 of Khulna City Corporation: The purpose of this study was to make a detail inventory of environmental component.<br>
+• Analysis the Effect of Road Characteristics on Traffic Flow Characteristics: A case study from shibbari to sonadanga road, Khulna.<br>
+• Analysis of the landscaping: Surrounding land use, networking system and modern facilities and suitability of Ishwardi Railway station.<br>
 
-Create content & metadata
+Project “Ektee Bari Ektee Khamar” (One House, One Farm)
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Khulna University of Engineering and Technology [ 01/04/2022 – 01/05/2022 ]
+City: Khulna
+Country: Bangladesh
+Website: kuet.ac.bd/department/URP/index.php
 
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+DIGITAL SKILLS
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Microsoft Office package: Microsoft Word, Excel, PowerPoint, Access / ArcGIS and ERDAS IMAGINE / ArcGIS, ERDAS IMAGINE 2014, Global Mapper, ILWIS, QGIS, ENVI / LiDAR Remote Sensing / Microsoft Word / GIS & Remote Sensing / Statistical analyses softwares (SPSS, R / R Studio, Amos, NVivo) / SketchUP (3D modelling) / Video Conferencing (Zoom, Teams, Skype, Webex) - Advanced / Team work orientated
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
+ORGANISATIONAL SKILLS
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Organizations of KUET Sports- OKS; Publicity & Publication Secretary
+As the Publicity & Publication Secretary in OKS, I organized numerous indoor and outdoor games at the Students Welfare Center. Additionally, I coordinated events, including award ceremonies, contributing to the overall engagement and welfare of the student community.
+Link: www.facebook.com/OKS.KUET/
+
+VOLUNTEERING
+------
+Bisorgyo FORUM
+[ Rajshahi, Bangladesh, 01/04/2020 – Current ]
+This organization was involved in distribution of relief, distribution of food items, giving medicine to village people during COVID-19 crisis & still it is continuing.<br>
+TRY, A Non-Profit Voluntary Organization of KUETians
+[ Khulna, Bangladesh, 01/03/2017 – 01/04/2022 ]
+The main purpose was to support underprivileged students by organizing fundraising campaigns, aiding families in times of illness, coordinating with the Alumni Association for assistance, and conducting initiatives such as distributing winter clothes, fixing houses, and providing small loans for purchasing study materials.<br>
+Link: www.facebook.com/try.kuet/
+DREAM-Voluntary Blood Donation Society of KUET
+[ Khulna, Bangladesh, 01/03/2017 – 01/04/2022 ]
+It has a vision for the world where no one will die in need of blood. Dream, managed by the students of KUET works to encourage the humane activity by providing blood donors. Dream work on the motto of “Donate blood, save life”<br>
+Link: www.facebook.com/DreamKuet/
+
+HONOURS AND AWARDS
+------
+Poster Presentation - secured 1st position
+Organized by Industrial production management (IEM), KUET [ 10/02/2019 ]
+Poster Presentation, World Town Planning Day, Bangladesh - 1st Runner-Up
+Institute of Planners [ 15/06/2019 ]
+Technical Scholarship, Higher Secondary School Certificate
+Ministry of Education, Intermediate and Secondary Education Boards, Bangladesh [ 23/05/2017 ]
+
+
+
+
