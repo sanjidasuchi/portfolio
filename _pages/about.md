@@ -9,15 +9,15 @@ redirect_from:
 <div style="display: flex; align-items: center;">
   <!-- Left Side: Image -->
   <div style="flex: 1; text-align: center;">
-    <img src="your-image-url.jpg" alt="Description" style="max-width: 100%; height: auto;">
+    <img src="images/logo..png" alt="Description" style="max-width: 100%; height: auto;">
   </div>
 
   <!-- Right Side: Text -->
   <div style="flex: 1; padding: 20px;">
-    <h2>Your Title Here</h2>
-    <p>
-      This is where your text will go. You can include paragraphs, headings, or any other content.
-      Use this area to describe the image, write explanations, or add any other information.
+      <p>
+      👧 I'm a first year graduate student at the University of Salzburg.
+      📚 My research interests are Remote Sensing, GIS, Urban Planning, Climate Change, Environmental Engineering
+      🙋‍♀️I am also interested in assisting others on their path in the world of Digital Earth and academia.
     </p>
   </div>
 </div>
