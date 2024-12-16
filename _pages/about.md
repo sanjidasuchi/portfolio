@@ -28,7 +28,7 @@ Besiseds GIS and remote sensing my research intersts are Urban Planning and Poli
     /* Image container styling */
     .image-container {
       text-align: center; /* Center the image horizontally */
-      margin-top: 1000px;
+      margin-top: 150px;
     }
 
     /* Resize the image */
