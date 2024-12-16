@@ -12,3 +12,49 @@ main:
     
   - title: "Publications"
     url: https://www.researchgate.net/profile/Sanjida-Anjum-Suchi
+
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shift Navbar to the Right</title>
+  <style>
+    /* Navigation Bar Container */
+    .navbar {
+      display: flex; /* Use Flexbox */
+      justify-content: flex-end; /* Align items to the right */
+      background-color: #333; /* Dark background color */
+      padding: 10px;
+    }
+
+    /* Navigation Links */
+    .navbar a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px; /* Spacing between links */
+      font-size: 16px;
+      transition: color 0.3s;
+    }
+
+    .navbar a:hover {
+      color: #00bcd4; /* Hover color */
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Navigation Bar -->
+  <div class="navbar">
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+  </div>
+
+  <h1>Welcome to My GitHub Pages Site</h1>
+  <p>This is an example of a navigation bar aligned to the right.</p>
+
+</body>
+</html>
+
