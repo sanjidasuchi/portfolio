@@ -40,9 +40,6 @@ redirect_from:
     .resized-image {
       width: 900px; /* Set desired width */
       height: auto; /* Maintain aspect ratio */
-      border: 2px solid #ddd; /* Add a border for style */
-      border-radius: 10px; /* Rounded corners */
-      box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Add shadow */
     }
   </style>
 </head>
