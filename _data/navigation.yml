@@ -6,27 +6,5 @@
 
 main:
   
-    - title: "CV"
-    url: '/files/Europass_CV.pdf/'
-
-    - title: "Portfolio"
-    url: 'https://sanjidasuchi.github.io/'
-  
-  
-  - title: "Publications"
-   url: 'https://www.researchgate.net/profile/Sanjida-Anjum-Suchi'
-
-  #- title: "Talks"
-  # url: /talks/    
-
-  #- title: "Teaching"
-  # url: /teaching/    
-    
-        
- # - title: "Blog Posts"
- #url: /year-archive/
-
-
-    
-  #- title: "Guide"
-  #  url: /markdown/
+  - title: "CV"
+    url: /files/Europass_CV.pdf/
