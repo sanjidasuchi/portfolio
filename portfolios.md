@@ -22,4 +22,14 @@ Arcgis Pro:<br>
 - it can detect those areas in somehow correctly like the lake so to conclude that both softwaresdemands manual adjustment for seeing which parameters are better and result in optimal solution<br>
 </p>
 
+**Heatmap**<br>
+<p style="text-align: justify;">
+The information seems to come from research where some participants had their eyes tracked. Presenting visual stimuli and utilizing RealEye software to measure eye movements were probably part of the investigation. I wanted to investigate if the participants could identify the differences by looking at the map's legend, which changes color. I also wanted to know which area they concentrated on when conducting the poll. I wanted to check how much care they were taking when administering the survey. I therefore created the questionnaire according to what I wanted to observe throughout the entire survey. The regions of the "Arctic Sea Ice Decline" map that caught the viewer's attention are shown by the eyetracking movement displayed in the picture.
+</p>
+![](images/3.png)
+<p style="text-align: justify;">
+The heatmap shows the visual representation of whare participants draw their attention mostly while conducting the survey. The area spotted with yellow and red shows that the viewer gaze was frequently more fixated. Cooler tones such as blue and green shows that on the area they had less attention.
+</p>
+
+
 
