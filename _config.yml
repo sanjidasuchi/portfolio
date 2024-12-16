@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title_separator          : "-"
-name                     : &name "Sanjida Anjum Suchi"
+name                     : &name "Most Sanjida Anjum Suchi"
 description              : &description "personal description"
 url                      : https://sanjidasuchi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
