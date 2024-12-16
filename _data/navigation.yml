@@ -4,77 +4,11 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Right-Side Navigation Bar</title>
-  <style>
-    /* Main Body Styling */
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-    }
-
-    /* Navigation Bar */
-    .right-navbar {
-      position: fixed; /* Fix it to the right */
-      right: 0; /* Align to the right side */
-      top: 0;
-      height: 100%; /* Full height */
-      width: 200px; /* Set the width of the bar */
-      background-color: #333; /* Background color */
-      display: flex;
-      flex-direction: column; /* Stack links vertically */
-      padding: 20px 10px;
-      box-shadow: -2px 0 5px rgba(0, 0, 0, 0.3);
-    }
-
-    /* Navigation Links */
-    .right-navbar a {
-      color: white;
-      text-decoration: none;
-      padding: 10px 15px;
-      margin: 5px 0;
-      font-size: 16px;
-      transition: background-color 0.3s, color 0.3s;
-    }
-
-    .right-navbar a:hover {
-      background-color: #00bcd4;
-      color: #fff;
-    }
-
-    /* Page Content */
-    .content {
-      margin-right: 220px; /* Add space for the navbar */
-      padding: 20px;
-    }
-  </style>
-</head>
-<body>
-
-  <!-- Navigation Bar -->
-  <div class="right-navbar">
-    <a href="#home">Home</a>
-    <a href="#about">About</a>
-    <a href="#services">Services</a>
-    <a href="#contact">Contact</a>
-  </div>
-
-  <!-- Page Content -->
-  <div class="content">
-    <h1>Welcome to My GitHub Pages Site</h1>
-    <p>This is an example of a right-side navigation bar.</p>
-    <p>
-      Scroll through the page content to see how the navigation bar stays fixed on the right.
-    </p>
-    <p>
-      Add more sections and links to your navigation bar to make it functional.
-    </p>
-  </div>
-
-</body>
-</html>
+main:
+  
+  - title: "CV"
+    url: files/Europass_CV.pdf
+    
+  - title: "Works"
+    url: 
 
