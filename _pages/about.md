@@ -10,8 +10,10 @@ redirect_from:
   <!-- Right Side: Text -->
   <div style="flex: 1; padding: 20px;">
     <p>
-      👧 I'm a first year graduate student at the University of Salzburg.<br>
+      👧 I'm a first year graduate student in the University of Salzburg at the Erasmus Mundus Joint Master (EMJM) <br>
+      
       📚 My research interests are Remote Sensing, GIS, Urban Planning, Climate Change, Environmental Engineering. <br>
+      
       🙋‍♀️I am also interested in assisting others on their path in the world of Digital Earth and academia.<br>
     </p>
   </div>
