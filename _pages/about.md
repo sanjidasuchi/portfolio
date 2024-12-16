@@ -16,8 +16,10 @@ My Interests
 ------
 Besiseds GIS and remote sensing my research intersts are Urban Planning and Policy making , Climate Change, Environmental Engineering. Here is the overview of my [works](https://sanjidasuchi.github.io/portfolio/).
 
-
-
+Experience
+------
+_Research Consultant | Feb 2023 – July 2024_
+Center for Environmental and Geographic Information Services (CEGIS) 
 
 
 
