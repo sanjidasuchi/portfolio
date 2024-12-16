@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/457840606_1983909885355298_1010508277402706856_n.jpg"
   name             : "Sanjida Anjum Suchi"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
