@@ -298,6 +298,7 @@ timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 # Plugins
 plugins:
   - jekyll-gist
+  #- jekyll-sitemap
   - jekyll-paginate
   - jekyll-redirect-from
   - jemoji
@@ -305,6 +306,7 @@ plugins:
 # Mimic GitHub Pages with --safe
 whitelist:
   - jekyll-gist
+  #- jekyll-sitemap
   - jekyll-paginate
   - jekyll-redirect-from
   - jemoji
